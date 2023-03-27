@@ -1,4 +1,4 @@
-package cop2805;
+package TextAnalyzer;
 
 import java.awt.*;
 import java.awt.event.*;
